@@ -1,4 +1,6 @@
-﻿#include <stdio.h>
+//Documentation: https://drive.google.com/drive/folders/1IIIEgSsUGiWM_-O2TsJrXPICEo3oq89L?usp=sharing
+
+#include <stdio.h>
 #include <math.h>
 #include <assert.h>
 
